@@ -1,0 +1,70 @@
+{
+  "name": "DropDown_Examples",
+  "description": "All about dropdown",
+  "main": "DynamicSearch-FullList-SelectionFromTypeIntoActivity.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.UIAutomation.Activities": "[22.4.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.3.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "InputDialogDropdownUsingWebsiteDropdownList.xaml",
+      "uniqueId": "58eb125e-212b-41c9-b527-8e78e5c8563d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DynamicSearch-OneItem-SelectionFromTypeIntoActivity.xaml",
+      "uniqueId": "96828146-223e-4a13-b23a-fd278a25a3b1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DynamicSearch-FullList-SelectionFromTypeIntoActivity.xaml",
+      "uniqueId": "dac49a2b-6b65-4319-8d23-fdec7da22a9f",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
