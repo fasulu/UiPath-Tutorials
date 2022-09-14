@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <Catalog>
+	<TreeList>
+        <Plant>
+            <Name>Apple</Name>
+            <Old>9</Old>
+            <Tree>Apple Tree</Tree>
+        </Plant>
+        <Plant>
+            <Name>Orange</Name>
+            <Old>6</Old>
+            <Tree>Orange Tree</Tree>
+        </Plant>
+        <Plant>
+            <Name>Dates</Name>
+            <Old>700</Old>
+            <Tree>Dates Tree</Tree>
+        </Plant>
+        <Plant>
+            <Name>Grapes</Name>
+            <Old>1500</Old>
+            <Tree>Grapes Tree</Tree>
+        </Plant>
+	</TreeList>
+    </Catalog>
