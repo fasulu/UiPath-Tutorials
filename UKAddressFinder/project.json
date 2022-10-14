@@ -3,6 +3,7 @@
   "description": "Find address and location from a given UK postcode",
   "main": "Main.xaml",
   "dependencies": {
+    "System.Text.RegularExpressions": "[4.3.1]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
     "UiPath.System.Activities": "[22.10.1]",

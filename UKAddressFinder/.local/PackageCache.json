@@ -244,6 +244,14 @@
         "C:\\Users\\fasulu\\.nuget\\packages\\uipath.webapi.activities\\1.13.1\\lib/net5.0-windows7.0/UiPath.Web.dll"
       ],
       "Path": "C:\\Users\\fasulu\\.nuget\\packages\\uipath.webapi.activities\\1.13.1"
+    },
+    {
+      "Package": {
+        "Id": "System.Text.RegularExpressions",
+        "Version": "4.3.1"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\system.text.regularexpressions\\4.3.1"
     }
   ],
   "Conflicts": [],
@@ -930,7 +938,7 @@
     },
     "Microsoft.NETCore.Targets": {
       "Id": "Microsoft.NETCore.Targets",
-      "Version": "1.1.0",
+      "Version": "1.1.3",
       "Dependencies": []
     },
     "Microsoft.NETCore.Windows.ApiSets": {
@@ -3312,15 +3320,15 @@
     },
     "System.Runtime": {
       "Id": "System.Runtime",
-      "Version": "4.3.0",
+      "Version": "4.3.1",
       "Dependencies": [
         {
           "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
+          "Item2": "[1.1.1, )"
         },
         {
           "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
+          "Item2": "[1.1.3, )"
         }
       ]
     },
@@ -4092,11 +4100,11 @@
     },
     "System.Text.RegularExpressions": {
       "Id": "System.Text.RegularExpressions",
-      "Version": "4.3.0",
+      "Version": "4.3.1",
       "Dependencies": [
         {
           "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
+          "Item2": "[4.3.1, )"
         }
       ]
     },
@@ -5316,12 +5324,12 @@
     {
       "Package": {
         "Id": "Microsoft.NETCore.Targets",
-        "Version": "1.1.0"
+        "Version": "1.1.3"
       },
       "Assemblies": [
-        "C:\\Users\\fasulu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\fasulu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0"
+      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3"
     },
     {
       "Package": {
@@ -6529,10 +6537,10 @@
     {
       "Package": {
         "Id": "System.Runtime",
-        "Version": "4.3.0"
+        "Version": "4.3.1"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\system.runtime\\4.3.0"
+      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\system.runtime\\4.3.1"
     },
     {
       "Package": {
@@ -6860,12 +6868,12 @@
     {
       "Package": {
         "Id": "System.Text.RegularExpressions",
-        "Version": "4.3.0"
+        "Version": "4.3.1"
       },
       "Assemblies": [
-        "C:\\Users\\fasulu\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
+        "C:\\Users\\fasulu\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
       ],
-      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\system.text.regularexpressions\\4.3.0"
+      "Path": "C:\\Users\\fasulu\\.nuget\\packages\\system.text.regularexpressions\\4.3.1"
     },
     {
       "Package": {
